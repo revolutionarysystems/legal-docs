@@ -1,3 +1,6 @@
+{TRADING NAME}
+Terms of Service
+
 Welcome
 Hi.  We are <em>{TRADING NAME}</em>, a {[company] / [trading name of COMPANY NAME ('Company Name')]} which has its registered office at {ADDRESS} in {COUNTRY}.
 Thank you for choosing to use our services ('Services').
